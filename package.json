@@ -1,0 +1,28 @@
+{
+    "author": "thecakeisalie25",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test",
+    "pebble": {
+        "displayName": "Test",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "6f3addb3-8d56-44ea-ba49-ccc0648a3b6a",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
